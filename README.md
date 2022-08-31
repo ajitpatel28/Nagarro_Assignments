@@ -17,4 +17,4 @@
 
 #### Twitter_clone- https://twitter-clone-ajit.herokuapp.com/landing
 
-#### ecommerce(edukan)- https://edukan-e-commerce.herokuapp.com/
+#### ecommerce(eDukan)- https://edukan-e-commerce.herokuapp.com/
