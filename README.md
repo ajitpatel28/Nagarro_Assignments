@@ -1,9 +1,9 @@
 # Nagarro_Assignments
 
 
-## Hosted Links -
+# Hosted Links -
 
-## Todo_list - https://ajitpatel28.github.io/Todo_list/
+# Todo_list - https://ajitpatel28.github.io/Todo_list/
 
 ## Image-slider- https://ajitpatel28.github.io/Image-Slider/
 
